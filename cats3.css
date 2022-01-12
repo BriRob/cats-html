@@ -17,8 +17,8 @@ a {
 }
 
 .second_section {
-    padding-bottom: 4%;
-    font: 20px Helvetica;
+    padding: 4% 0;
+    font: 25px Helvetica;
     color: #FFFFFA;
     background-color: #40434E;
     display: flex;
@@ -26,25 +26,20 @@ a {
     align-items: center;
 }
 
-.kittens_pic {
-    width: 350px;
-}
-
 .third_section {
+
     padding: 3% 15%;
+    font: 20px Helvetica;
+    color: #FFFFFA;
     background-color: #702632;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: start;
 }
 
-h2 {
-    color: #FFFFFA;
-    font: 30px Helvetica;
-
+ul {
+    width: 500px;
 }
-
-p {
-    color: #FFFFFA;
-    font: 20px sans-serif;
+li {
+    padding: 1%;
 }
