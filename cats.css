@@ -15,7 +15,7 @@ header {
 
 .second_color {
     padding-bottom: 4%;
-    font-family: Helvetica;
+    font: 20px Helvetica;
     color: #FFFFFA;
     background-color: #40434E;
     display: flex;
@@ -36,10 +36,12 @@ header {
 }
 
 h2 {
+    color: #FFFFFA;
     font: 30px Helvetica;
 
 }
 
 p {
+    color: #FFFFFA;
     font: 20px sans-serif;
 }

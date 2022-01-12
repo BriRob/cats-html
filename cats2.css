@@ -1,0 +1,89 @@
+.body {
+    width: fit-content;
+}
+header {
+    height: 75px;
+    background-color: #912F40;
+    font: 26px sans-serif;
+    color: #FFFFFA;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.second_color {
+    padding: 1% 23% 1%;
+    font: 28px Helvetica;
+    color: #FFFFFA;
+    background-color: #40434E;
+
+}
+
+
+.third_color {
+    padding: 3% 15%;
+    background-color: #702632;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.box {
+    border: 2px solid #FFFFFA;
+    padding: 5% 5%;
+}
+
+.fName,
+.lName,
+.fullPref,
+.lovedQualities {
+    padding: 2% 15%;
+    font: 27px sans-serif;
+    color: #FFFFFA;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.names {
+    width: 250px;
+    height: 30px;
+}
+
+input[type='text'] {
+    font: 23px sans-serif;
+}
+
+.prefBreed {
+    padding-bottom: 7px;
+}
+
+
+
+input[type='checkbox'] {
+    width: 20px;
+}
+
+.catQ {
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+textarea {
+    width: 450px;
+    height: 100px;
+    font: 23px sans-serif;
+}
+
+.submit {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button {
+    margin-top: 3px;
+    font: 22px sans-serif;
+}
