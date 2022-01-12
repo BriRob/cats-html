@@ -41,11 +41,13 @@ a {
     color: #FFFFFA;
     text-align: center;
 }
+
 .cNamesPics{
     padding: 1%;
 }
 
 .cKind {
+    margin-bottom: 4px;
     font: 25px Helvetica;
     color: #FFFFFA;
     text-align: center;
