@@ -65,10 +65,12 @@ input[type='text'] {
     padding-bottom: 7px;
 }
 
-
-
 input[type='checkbox'] {
     width: 20px;
+}
+
+.checkboxes {
+    font-size: 20px;
 }
 
 .catQ {
