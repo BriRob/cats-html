@@ -1,0 +1,45 @@
+.body {
+    width: fit-content;
+}
+header {
+    height: 75px;
+    background-color: #912F40;
+    font: 26px sans-serif;
+    color: #FFFFFA;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.second_color {
+    padding-bottom: 4%;
+    font-family: Helvetica;
+    color: #FFFFFA;
+    background-color: #40434E;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.kittens_pic {
+    width: 350px;
+}
+
+.cat_types {
+    padding: 3% 15%;
+    background-color: #702632;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h2 {
+    font: 30px Helvetica;
+
+}
+
+p {
+    font: 20px sans-serif;
+}
